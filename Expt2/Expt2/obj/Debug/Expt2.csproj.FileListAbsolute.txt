@@ -1,0 +1,7 @@
+C:\Users\thiru\OneDrive\Desktop\.NET\Expt2\Expt2\bin\Debug\Expt2.exe.config
+C:\Users\thiru\OneDrive\Desktop\.NET\Expt2\Expt2\bin\Debug\Expt2.exe
+C:\Users\thiru\OneDrive\Desktop\.NET\Expt2\Expt2\bin\Debug\Expt2.pdb
+C:\Users\thiru\OneDrive\Desktop\.NET\Expt2\Expt2\obj\Debug\Expt2.csproj.AssemblyReference.cache
+C:\Users\thiru\OneDrive\Desktop\.NET\Expt2\Expt2\obj\Debug\Expt2.csproj.CoreCompileInputs.cache
+C:\Users\thiru\OneDrive\Desktop\.NET\Expt2\Expt2\obj\Debug\Expt2.exe
+C:\Users\thiru\OneDrive\Desktop\.NET\Expt2\Expt2\obj\Debug\Expt2.pdb
