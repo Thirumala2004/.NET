@@ -1,0 +1,7 @@
+C:\Users\thiru\OneDrive\Desktop\.NET\PuclicStaticBlocks\bin\Debug\PuclicStaticBlocks.exe.config
+C:\Users\thiru\OneDrive\Desktop\.NET\PuclicStaticBlocks\bin\Debug\PuclicStaticBlocks.exe
+C:\Users\thiru\OneDrive\Desktop\.NET\PuclicStaticBlocks\bin\Debug\PuclicStaticBlocks.pdb
+C:\Users\thiru\OneDrive\Desktop\.NET\PuclicStaticBlocks\obj\Debug\PuclicStaticBlocks.csproj.AssemblyReference.cache
+C:\Users\thiru\OneDrive\Desktop\.NET\PuclicStaticBlocks\obj\Debug\PuclicStaticBlocks.csproj.CoreCompileInputs.cache
+C:\Users\thiru\OneDrive\Desktop\.NET\PuclicStaticBlocks\obj\Debug\PuclicStaticBlocks.exe
+C:\Users\thiru\OneDrive\Desktop\.NET\PuclicStaticBlocks\obj\Debug\PuclicStaticBlocks.pdb
