@@ -1,0 +1,10 @@
+C:\Users\thiru\OneDrive\Desktop\.NET\AddSubMulDiv\bin\Debug\AddSubMulDiv.exe.config
+C:\Users\thiru\OneDrive\Desktop\.NET\AddSubMulDiv\bin\Debug\AddSubMulDiv.exe
+C:\Users\thiru\OneDrive\Desktop\.NET\AddSubMulDiv\bin\Debug\AddSubMulDiv.pdb
+C:\Users\thiru\OneDrive\Desktop\.NET\AddSubMulDiv\obj\Debug\AddSubMulDiv.csproj.AssemblyReference.cache
+C:\Users\thiru\OneDrive\Desktop\.NET\AddSubMulDiv\obj\Debug\AddSubMulDiv.Form1.resources
+C:\Users\thiru\OneDrive\Desktop\.NET\AddSubMulDiv\obj\Debug\AddSubMulDiv.Properties.Resources.resources
+C:\Users\thiru\OneDrive\Desktop\.NET\AddSubMulDiv\obj\Debug\AddSubMulDiv.csproj.GenerateResource.cache
+C:\Users\thiru\OneDrive\Desktop\.NET\AddSubMulDiv\obj\Debug\AddSubMulDiv.csproj.CoreCompileInputs.cache
+C:\Users\thiru\OneDrive\Desktop\.NET\AddSubMulDiv\obj\Debug\AddSubMulDiv.exe
+C:\Users\thiru\OneDrive\Desktop\.NET\AddSubMulDiv\obj\Debug\AddSubMulDiv.pdb
