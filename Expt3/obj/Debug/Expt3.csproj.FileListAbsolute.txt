@@ -1,0 +1,10 @@
+C:\Users\thiru\OneDrive\Desktop\.NET\Expt3\bin\Debug\Expt3.exe.config
+C:\Users\thiru\OneDrive\Desktop\.NET\Expt3\bin\Debug\Expt3.exe
+C:\Users\thiru\OneDrive\Desktop\.NET\Expt3\bin\Debug\Expt3.pdb
+C:\Users\thiru\OneDrive\Desktop\.NET\Expt3\obj\Debug\Expt3.csproj.AssemblyReference.cache
+C:\Users\thiru\OneDrive\Desktop\.NET\Expt3\obj\Debug\Expt3.Form1.resources
+C:\Users\thiru\OneDrive\Desktop\.NET\Expt3\obj\Debug\Expt3.Properties.Resources.resources
+C:\Users\thiru\OneDrive\Desktop\.NET\Expt3\obj\Debug\Expt3.csproj.GenerateResource.cache
+C:\Users\thiru\OneDrive\Desktop\.NET\Expt3\obj\Debug\Expt3.csproj.CoreCompileInputs.cache
+C:\Users\thiru\OneDrive\Desktop\.NET\Expt3\obj\Debug\Expt3.exe
+C:\Users\thiru\OneDrive\Desktop\.NET\Expt3\obj\Debug\Expt3.pdb
