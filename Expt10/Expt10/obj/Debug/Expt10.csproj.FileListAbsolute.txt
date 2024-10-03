@@ -1,0 +1,7 @@
+C:\Users\3-c\Desktop\23BQ5A0518\.NET\Expt10\Expt10\bin\Debug\Expt10.exe.config
+C:\Users\3-c\Desktop\23BQ5A0518\.NET\Expt10\Expt10\bin\Debug\Expt10.exe
+C:\Users\3-c\Desktop\23BQ5A0518\.NET\Expt10\Expt10\bin\Debug\Expt10.pdb
+C:\Users\3-c\Desktop\23BQ5A0518\.NET\Expt10\Expt10\obj\Debug\Expt10.csproj.AssemblyReference.cache
+C:\Users\3-c\Desktop\23BQ5A0518\.NET\Expt10\Expt10\obj\Debug\Expt10.csproj.CoreCompileInputs.cache
+C:\Users\3-c\Desktop\23BQ5A0518\.NET\Expt10\Expt10\obj\Debug\Expt10.exe
+C:\Users\3-c\Desktop\23BQ5A0518\.NET\Expt10\Expt10\obj\Debug\Expt10.pdb
